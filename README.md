@@ -141,4 +141,6 @@ https://www.figma.com/design/J79PFOJzy5EPNSyA6iCVdj/Amazon-Product-Listing-Page-
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
+![Amazon Product Listing Page – Desktop](screenshots/Amazon%20Product%20Listing%20Page%20-%20Desktop.png)
+
